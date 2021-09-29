@@ -1,3 +1,21 @@
+ /* Modifications apporté au CSS */
+
+.col-sm-3 {
+    margin-bottom: 20px;
+}
+
+.keywords {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.chouette_agence_titre
+
+
+/* fin des modifications */
+
+
+
 body {
     margin: 0;
     padding: 0;
@@ -822,7 +840,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpeg");
 }
 
 @media (max-width: 1024px) {
