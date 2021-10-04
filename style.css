@@ -23,8 +23,19 @@ a {
     text-align: center;
 }
 
+#contact-info p{
+    margin-top: 10%;
+    margin-left: 40%;
+    float: right;
+    position: absolute;
+    font-weight: 600;
+}
 
-
+#citation-texte {
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 700;
+}
 
 /* fin des modifications */
 
@@ -739,6 +750,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    font-weight: 600;
 }
 
 h3 {
@@ -785,7 +797,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(165, 147, 99, 1);
     padding: 40px 40px 40px 40px;
 }
 
