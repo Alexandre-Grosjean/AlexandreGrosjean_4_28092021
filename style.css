@@ -66,6 +66,18 @@ a {
     display: block;
 }
 
+#titleWithLogo-index {
+    background-color: rgba(100, 100, 100, .7);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#textContact-index {
+    background-color: rgba(100, 100, 100, .7);
+    padding: 10px;
+    border-radius: 20px;
+}
+
 /* fin des modifications */
 
 
