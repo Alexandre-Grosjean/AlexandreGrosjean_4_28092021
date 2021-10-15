@@ -1,10 +1,10 @@
  /* Modifications apporté au CSS */
 
- .image-resize-mode {
+ /* .image-resize-mode {
      background-color: white;
      border-radius: 50px;
      padding: 1px;
- }
+ } */
 
 img {
     border-radius: 15px;
@@ -37,8 +37,7 @@ a {
 
 #contact-info p{
     margin-top: 10%;
-    margin-left: 40%;
-    float: right;
+    margin-left: 5%;
     font-weight: 600;
 }
 
@@ -66,17 +65,17 @@ a {
     display: block;
 }
 
-/* #titleWithLogo-index {
-    background-color: rgba(100, 100, 100, .7);
+#titleWithLogo-index {
+    background-color: rgba(200, 200, 200, .7);
     padding: 10px;
     border-radius: 20px;
 }
 
 #textContact-index {
-    background-color: rgba(100, 100, 100, .7);
+    background-color: rgba(200, 200, 200, .7);
     padding: 10px;
     border-radius: 20px;
-} */
+}
 
 /* fin des modifications */
 
@@ -866,7 +865,7 @@ h4 {
 }
 
 .tc-white {
-    color: #fff!important;
+    color: #000!important;
     text-align: center;
     opacity: 1;
     z-index: 999;
